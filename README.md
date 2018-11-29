@@ -1,12 +1,10 @@
-# Assignment 24
+# Assignment 25
 
 For this assignment you will prompt the user for the number of sides on a die and how many times it will be rolled. Your program should roll that many times and store the number of times each value is rolled in an array.
 
 ## Specifications
 
 You have the choice of using either one or multiple classes. However, if you use one class you still need to break up your code logically into methods.
-
-Use the example from last class to guide you as you get started.
 
 ### Sample Outputs
 
